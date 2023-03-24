@@ -1,0 +1,15 @@
+E:\Projects\Learning\ASP\ASP\Notes.Application\bin\Debug\net7.0\Notes.Application.deps.json
+E:\Projects\Learning\ASP\ASP\Notes.Application\bin\Debug\net7.0\Notes.Application.dll
+E:\Projects\Learning\ASP\ASP\Notes.Application\bin\Debug\net7.0\Notes.Application.pdb
+E:\Projects\Learning\ASP\ASP\Notes.Application\bin\Debug\net7.0\Notes.Domain.dll
+E:\Projects\Learning\ASP\ASP\Notes.Application\bin\Debug\net7.0\Notes.Domain.pdb
+E:\Projects\Learning\ASP\ASP\Notes.Application\obj\Debug\net7.0\Notes.Application.csproj.AssemblyReference.cache
+E:\Projects\Learning\ASP\ASP\Notes.Application\obj\Debug\net7.0\Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Learning\ASP\ASP\Notes.Application\obj\Debug\net7.0\Notes.Application.AssemblyInfoInputs.cache
+E:\Projects\Learning\ASP\ASP\Notes.Application\obj\Debug\net7.0\Notes.Application.AssemblyInfo.cs
+E:\Projects\Learning\ASP\ASP\Notes.Application\obj\Debug\net7.0\Notes.Application.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\ASP\ASP\Notes.Application\obj\Debug\net7.0\Notes.Application.csproj.CopyComplete
+E:\Projects\Learning\ASP\ASP\Notes.Application\obj\Debug\net7.0\Notes.Application.dll
+E:\Projects\Learning\ASP\ASP\Notes.Application\obj\Debug\net7.0\refint\Notes.Application.dll
+E:\Projects\Learning\ASP\ASP\Notes.Application\obj\Debug\net7.0\Notes.Application.pdb
+E:\Projects\Learning\ASP\ASP\Notes.Application\obj\Debug\net7.0\ref\Notes.Application.dll
